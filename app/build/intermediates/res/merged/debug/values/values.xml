@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="add_button_margin">48dp</dimen>
+    <dimen name="round_button_diameter">48dp</dimen>
+    <string name="after_image">After image</string>
+    <string name="app_name">ImageEnhancer</string>
+    <string name="before_image">Before image</string>
+    <string name="improve_image_text">Modify image</string>
+    <string name="load_button_text">Load new image</string>
+    <string name="select_configuration">Select configuration</string>
+    <string name="title_activity_main">ImageEnhancer</string>
+    <style name="AppTheme" parent="android:Theme.NoTitleBar.Fullscreen"/>
+</resources>

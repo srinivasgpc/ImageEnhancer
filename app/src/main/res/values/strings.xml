@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">ImageEnhancer</string>
+    <string name="load_button_text">Load new image</string>
+    <string name="improve_image_text">Modify image</string>
+    <string name="title_activity_main">ImageEnhancer</string>
+    <string name="before_image">Before image</string>
+    <string name="after_image">After image</string>
+    <string name="select_configuration">Select configuration</string>
+
+</resources>
